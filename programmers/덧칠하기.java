@@ -1,4 +1,3 @@
-```java
 import java.util.Arrays;
 
 class Solution {
@@ -31,4 +30,3 @@ class Solution {
         return answer;
     }
 }
-```
